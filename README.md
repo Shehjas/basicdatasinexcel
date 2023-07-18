@@ -1,0 +1,2 @@
+# basicdatasinexcel
+some functions
